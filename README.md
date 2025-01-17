@@ -1,3 +1,13 @@
+
+![Engineer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+🌟 **No Worry, I'm an Engineer** 🌟
+
+🛠️ **About Me:**
+👨‍💻 I’m a passionate software engineer.  
+📚 Always learning and building new things.  
+🚀 Focused on creating scalable, efficient solutions.  
+
 ⚙️ **Tech Stack:**
 
 🌐 Web Development: HTML | CSS | JavaScript | Vue.js
